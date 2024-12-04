@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi there, I'm **Rxkx**! 👋
 
-<!--
-**RxkxScripts/RxkxScripts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About Me**
 
-Here are some ideas to get you started:
+I'm a passionate developer with a flair for creating elegant and innovative solutions. Currently, I am focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Web Development:** Crafting beautiful and responsive interfaces with Tailwind CSS and JavaScript.
+**Custom Scripts:** Developing tailored FiveM scripts to enhance gaming experiences.
+**Tech Exploration:** Diving into new technologies and frameworks to stay ahead in the tech world.
+
+**Skills**
+
+**Languages:** JavaScript, HTML, CSS, Lua
+**Frameworks:** Tailwind CSS, Bootstrap
+**Tools:** FiveM, Git, VS Code
+**Databases:** MySQL, SQLite
+
+**🔥 My GitHub Stats
+GitHub Stats Top Languages**
+
+**📫 How to Reach Me**
+Twitter: @rxkxscripts
+LinkedIn: Rxkx
+Email: rakarakun21@gmail.com
