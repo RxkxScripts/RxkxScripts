@@ -1,33 +1,41 @@
 Hi there, I'm **Rxkx**! 👋
 
+-----------------------------------------------------------------------------------------------------------------------
+
 **About Me**
 
-**I'm a passionate developer with a flair for creating elegant and innovative solutions. Currently, I am focused on:**
+_**I'm a passionate developer with a flair for creating elegant and innovative solutions. Currently, I am focused on:**_
 
-**Web Development:** Crafting beautiful and responsive interfaces with Tailwind CSS and JavaScript.
+**Web Development:** _Crafting beautiful and responsive interfaces with Tailwind CSS and JavaScript._
 
 **Custom Scripts:** Developing tailored FiveM scripts to enhance gaming experiences.
 
 **Tech Exploration:** Diving into new technologies and frameworks to stay ahead in the tech world.
 
-**Skills**
+_**Skills**_
 
-**Languages:** JavaScript, HTML, CSS, Lua
+-----------------------------------------------------------------------------------------------------------------------
 
-**Frameworks:** Tailwind CSS, Bootstrap
+**Languages:** _JavaScript, HTML, CSS, Lua_
 
-**Tools:** FiveM, Git, VS Code
+**Frameworks:** _Tailwind CSS, Bootstrap_
 
-**Databases:** MySQL, SQLite
+**Tools:** _FiveM, Git, VS Code_
+
+**Databases:** _MySQL, SQLite_
 
 ****🔥 My GitHub Stats**
+
+-----------------------------------------------------------------------------------------------------------------------
 
 **GitHub Stats Top Languages****
 
 **📫 How to Reach Me**
 
-Twitter: @rxkxscripts
+-----------------------------------------------------------------------------------------------------------------------
 
-LinkedIn: Rxkx
+_Twitter: @rxkxscripts_
 
-Email: rakarakun21@gmail.com
+_LinkedIn: Rxkx_
+
+_Email: rakarakun21@gmail.com_
